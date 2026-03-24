@@ -83,6 +83,7 @@ except:
 Monthly electricity usage (kWh): 150
 Daily travel distance (km): 10
 Meat meals per week: 5
+<img width="1496" height="795" alt="image" src="https://github.com/user-attachments/assets/a2f0de3f-e8c3-4e6a-bf37-66a6b33edd3e" />
 
 Estimated Monthly CO2 Emission: 442.50 kg
 ⚠ Moderate footprint – Try reducing usage
