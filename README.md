@@ -91,6 +91,9 @@ Estimated Monthly CO2 Emission: 442.50 kg
 ```
 
 ---
+## output
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/524bf0f8-8c7a-4208-8a7c-02bdb34dfb01" />
+
 
 ## 🌱 SDG Mapping
 
